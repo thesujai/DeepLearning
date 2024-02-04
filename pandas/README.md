@@ -4,3 +4,7 @@ I have added well explanatory comments in pokemon_analysis.pynb which will be en
 
 
 Contributions are welcomed:)
+
+
+## References
+https://github.com/KeithGalli/pandas
